@@ -1,0 +1,20 @@
+<table id="dash-table" class="table table-striped  table-hover table-responsive text-center align-middle">
+<tbody>
+<tr>
+<td>
+<h1><em>WASTE</em></h1>
+<p>testing radio button&nbsp;</p>
+</td>
+<td><a class="btn btn-info btn-xs" href="printnote.php?print=21">Print</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>waste</td>
+<td>
+<p>Lorem ipsum dolor sit amet. Ea distinctio omnis qui numquam veritatis At Quis ullam. Qui ullam unde in dolores aliquam et galisum deleniti quo esse deserunt. Aut maxime earum explicabo earum qui expedita inventore aut adipisci architecto ea repellat aliquid et fugiat amet. Cum consequatur voluptatem et optio omnis veniam eaque cum nobis delectus in aliquam alias vel vero dolor.</p>
+<p>Vel delectus enim hic iste veritatis aut commodi iusto qui voluptatibus magni. Et expedita totam sed autem quaerat qui enim quia ad enim harum et veniam mollitia rem dolorum molestiae. Quo architecto quia qui voluptas quia quo soluta sunt sit esse officia et esse voluptatum qui cumque animi est molestiae nobis. Eos molestiae repellat a debitis quae et expedita alias.</p>
+<p>Cum quam explicabo et veniam dolorem At doloremque soluta et aliquid assumenda sed sapiente enim qui dolorem aliquam. Et excepturi ipsum id architecto autem ut porro aliquam et nihil debitis</p>
+</td>
+</tr>
+</tbody>
+</table>
